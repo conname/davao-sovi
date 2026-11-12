@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, pipeline, or processed dataset in your research, please cite it using the metadata below."
+type: software
+title: "Spatiotemporal Data Analytics and Dimensionality Reduction for Social Vulnerability Assessment in Region XI (2020–2024)"
+abstract: >-
+  A reproducible spatial data science pipeline for constructing a longitudinally comparable,
+  scale-normalized Social Vulnerability Index (SoVI) across Region XI (Davao Region), Philippines
+  from 2020 to 2024 (N = 30 province-year observations). Integrating 15 multi-source Philippine
+  Statistics Authority (PSA) indicators via pooled multi-year Z-score standardization and
+  Varimax-rotated Principal Component Analysis (PCA), the framework eliminates baseline drift,
+  tracks longitudinal risk trajectories, and validates stability through Leave-One-Year-Out (LOYO)
+  cross-validation, Global Moran's I spatial diagnostics, Eckart-Young-Mirsky subspace optimality
+  bounds, and a 10,000-run Monte Carlo simulation.
+authors:
+  - family-names: "Dayot"
+    given-names: "Cleriza O."
+    affiliation: "School of Arts and Sciences, Ateneo de Davao University, Davao City, Philippines"
+  - family-names: "Barsomo"
+    given-names: "James Marc M."
+    affiliation: "School of Arts and Sciences, Ateneo de Davao University, Davao City, Philippines"
+  - family-names: "Mariano"
+    given-names: "Ronalyn L."
+    affiliation: "School of Arts and Sciences, Ateneo de Davao University, Davao City, Philippines"
+date-released: 2026-11-12
+version: "1.0.0"
+license: Apache-2.0
+repository-code: "https://github.com"
+url: "https://github.com"
+keywords:
+  - "social-vulnerability"
+  - "sovi"
+  - "spatiotemporal-analysis"
+  - "dimensionality-reduction"
+  - "principal-component-analysis"
+  - "varimax-rotation"
+  - "disaster-risk-reduction"
+  - "davao-region"
+  - "region-xi"
+  - "philippines"
+  - "reproducible-research"
+preferred-citation:
+  type: thesis
+  title: "Spatiotemporal Data Analytics and Dimensionality Reduction for Social Vulnerability Assessment in Region XI (2020–2024)"
+  authors:
+    - family-names: "Dayot"
+      given-names: "Cleriza O."
+    - family-names: "Barsomo"
+      given-names: "James Marc M."
+    - family-names: "Mariano"
+      given-names: "Ronalyn L."
+  institution:
+    name: "Ateneo de Davao University"
+    department: "School of Arts and Sciences"
+    city: "Davao City"
+    country: "PH"
+  year: 2026
+  month: 11
+  url: "https://github.com"

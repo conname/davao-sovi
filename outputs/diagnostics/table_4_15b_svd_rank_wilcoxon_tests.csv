@@ -1,0 +1,3 @@
+Comparison,Mean_Obs_Error_A,Mean_Obs_Error_B,Wilcoxon_W,Wilcoxon_p_value
+Rank k=3 vs. Selected Rank k=4,1.4983237332253945,1.1036244958678405,0.0,1.862645149230957e-09
+Selected Rank k=4 vs. Expanded Rank k=5,1.1036244958678405,0.9253785261866239,0.0,1.862645149230957e-09

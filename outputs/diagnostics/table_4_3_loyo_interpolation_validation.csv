@@ -1,0 +1,17 @@
+Indicator,Validation Anchors,RMSE,MAPE (%)
+Poverty_Incidence,"[2018, 2021, 2023, 2025]",0.0361,16.27
+Highschool_Adults,"[2019, 2020, 2024]",0.1311,18.46
+Highschool_Adults (Excl. Davao Occidental),"[2019, 2020, 2024]",0.0888,12.91
+Functional_Literacy,"[2019, 2020, 2024]",0.0062,0.65
+Functional_Literacy (Excl. Davao Occidental),"[2019, 2020, 2024]",0.0068,0.79
+Female_Household_Head,"[2020, 2021, 2024]",0.0169,6.29
+Age_Dependency_Under5,"[2020, 2024]",0.0,0.0
+Age_Dependency_Over80,"[2020, 2024]",0.0,0.0
+Average_Household_Size,"[2020, 2024]",0.0153,0.38
+Poor_Roof_Materials,"[2020, 2021, 2024]",0.0,0.0
+Poor_Wall_Materials,"[2020, 2021, 2024]",0.0,0.0
+Insecure_Tenure,"[2020, 2021, 2024]",0.0,0.0
+Electricity_Access,"[2020, 2021, 2024]",0.0,0.0
+Water_Access,"[2020, 2021, 2024]",0.0,0.0
+Population_Density,"[2020, 2024]",0.2567,0.09
+Urban_Population,"[2020, 2024]",0.0002,0.02
